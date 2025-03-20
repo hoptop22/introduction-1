@@ -1,0 +1,3 @@
+5f2c531 (HEAD -> main) Добавил log.txt
+9f1ab28 (origin/main, origin/HEAD) Добавил status.txt
+da407b3 Create README.md
